@@ -259,7 +259,7 @@ class Customer {
         echo "
             </head>
             <body>
-                <a href='https://github.com/sjbaile1/Prog02/tree/master/Prog02' target='_blank'>GitHub</a><br />
+                <a href='https://github.com/sjbaile1/CIS355/tree/master/Prog02' target='_blank'>GitHub</a><br />
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
